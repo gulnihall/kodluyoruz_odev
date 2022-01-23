@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 2em;
+}
+
+p {
+    color:black;
+    text-align: center;
+}
+
+.list-position {
+    list-style-position: inside;
+    text-align: center;
+    color: blue;
+}
+img {
+    
+    width: 350px;
+
+}
